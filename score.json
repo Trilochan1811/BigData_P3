@@ -1,0 +1,13 @@
+{
+  "score": 75,
+  "full_score": 75,
+  "tests": {
+    "docker_build": "PASS (5/5)",
+    "docker_run": "PASS (5/5)",
+    "upload_test": "PASS (10/10)",
+    "csvsum_test": "PASS (10/10)",
+    "parquetsum_test": "PASS (10/10)",
+    "big_upload": "PASS (15/15)",
+    "big_sum": "PASS (20/20)"
+  }
+}
